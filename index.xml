@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>Quartz 5</title>
+      <link>https://searchingfox.github.io/digital-garden</link>
+      <description>Last 10 notes on Quartz 5</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>Tag Index</title>
+    <link>https://searchingfox.github.io/digital-garden/tags/</link>
+    <guid>https://searchingfox.github.io/digital-garden/tags/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 20 Sep 2026 23:19:43 GMT</pubDate>
+  </item><item>
+    <title>Algebra</title>
+    <link>https://searchingfox.github.io/digital-garden/algebra</link>
+    <guid>https://searchingfox.github.io/digital-garden/algebra</guid>
+    <description><![CDATA[ Algebra #import &quot;@preview/fletcher:0.5.8&quot; as fletcher: diagram, node, edge; #let w = 7.2em; #let h = 2.7em; #diagram( spacing: (3.8em, 2.5em), node-stroke: luma(80%), label-size: 0.9em, node((0,0), [*Measure space*], name: &lt;ms&gt;, width:w, height:h), node((1,0), [*Set*], name: &lt;s&gt... ]]></description>
+    <pubDate>Sun, 20 Sep 2026 22:35:41 GMT</pubDate>
+  </item><item>
+    <title>Welcome to Quartz</title>
+    <link>https://searchingfox.github.io/digital-garden/</link>
+    <guid>https://searchingfox.github.io/digital-garden/</guid>
+    <description><![CDATA[ This is a blank Quartz installation. See the documentation for how to get started. ]]></description>
+    <pubDate>Sun, 20 Sep 2026 22:18:10 GMT</pubDate>
+  </item><item>
+    <title>4D</title>
+    <link>https://searchingfox.github.io/digital-garden/4d</link>
+    <guid>https://searchingfox.github.io/digital-garden/4d</guid>
+    <description><![CDATA[ 4D 4D — Блог optozorax’а Tesseract – Bartosz Ciechanowski The Regular Polychora A Journey into the 4th Dimension - Perspective Part 1 - YouTube Парадоксы в ЧЕТЫРЕХМЕРНОМ пространстве | Артур Шарифов - YouTube 4D Toys. ]]></description>
+    <pubDate>Wed, 31 Dec 2025 18:59:23 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
